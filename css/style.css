@@ -83,7 +83,7 @@ body {
   text-align: center;
 }
 
-.hero h1 { font-size: 3rem; animation: fadeUp 1s ease forwards; }
+.hero h1 { font-size: 3rem; color:var(--main-color); animation: fadeUp 1s ease forwards; }
 .hero p { font-size: 1.2rem; opacity: 0.9; animation: fadeUp 1.3s ease forwards; }
 
 /* ===== Section Titles ===== */
@@ -345,3 +345,4 @@ footer {
   }
   .hero h1 { font-size: 1.9rem; }
 }
+
